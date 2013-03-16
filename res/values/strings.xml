@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Blood pingpong</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_freeman_field">FreemanField</string>
+    <string name="title_start_button">Blood now!</string>
+    <string name="title_exit_button">Exit</string>
+    
+</resources>
